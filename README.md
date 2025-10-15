@@ -10,10 +10,11 @@ Thiết kế CSDL HIS (đăng ký khám, EMR, xét nghiệm, kê đơn, viện p
 
 Cung cấp script tạo bảng, seed dữ liệu, trigger tự tính tổng tiền, view báo cáo.
 
-Kèm use case diagram và đáp án lý thuyết (Lecture 5–6).
+Kèm use case diagram và đáp án phần củng cố lý thuyết bài 5 (Lecture 5–6).
 
 
-2) Cấu trúc repo (tóm tắt các tệp quan trọng)
+2) Cấu trúc repo (tóm tắt các tệp quan trọng cho phần CASE STUDY cuối bài LECTURE 5)
+CASE STUDY:  ĐẶC TẢ PHẦN MỀM QUẢN LÝ KHÁM CHỮA BỆNH CHO BỆNH VIỆN CHỢ RẪY
 Database & Script
 
 his_schema_choray.sql – tạo database his_choray và toàn bộ bảng.
@@ -36,7 +37,7 @@ ERD_HIS_from_SQL.mwb – file model Workbench (mở sửa/Export lại).
 
 screenshot_invoice_total.png, screenshot_labsubmission.png – bằng chứng chạy thật.
 
-Bài lý thuyết & Use Case (Lecture 5–6)
+3) Bài củng cố lý thuyết & Use Case (Lecture 5–6)
 ## Use Case (Lecture 5–6)
 
 > Sơ đồ use case hệ thống đặt phòng khách sạn.
