@@ -37,10 +37,16 @@ ERD_HIS_from_SQL.mwb – file model Workbench (mở sửa/Export lại).
 screenshot_invoice_total.png, screenshot_labsubmission.png – bằng chứng chạy thật.
 
 Bài lý thuyết & Use Case (Lecture 5–6)
+## Use Case (Lecture 5–6)
 
-NGUYỄN ĐỖ TÚ MAI-N23DCPT091-LECTURE5&6-requirements analysis.pdf – bài giải Câu hỏi củng cố lý thuyết (lecture 5–6).
+> Sơ đồ use case hệ thống đặt phòng khách sạn.
 
-usecasediagramLECTURE5-thầy
+<a href="<usecasediagramLECTURE5-6-requirements(bài5).png>">
+  <img src="<usecasediagramLECTURE5-6-requirements(bài5).png>" alt="Use Case – Hệ thống Đặt Phòng" width="100%">
+</a>
+
+- File ảnh gốc: `usecasediagramLECTURE5-6-requirements(bài5).png`
+- Bài giải lý thuyết: [`NGUYỄN ĐỖ TÚ MAI-N23DCPT091-LECTURE5&6-requirements analysis.pdf`](NGUYỄN%20ĐỖ%20TÚ%20MAI-N23DCPT091-LECTURE5%266-requirements%20analysis.pdf)
 
 Chạy run_all_N23DCPT091.sql.
 
