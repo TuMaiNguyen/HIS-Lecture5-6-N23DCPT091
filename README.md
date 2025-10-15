@@ -40,14 +40,14 @@ screenshot_invoice_total.png, screenshot_labsubmission.png – bằng chứng ch
 3) Bài củng cố lý thuyết & Use Case (Lecture 5–6)
 ## Use Case (Lecture 5–6)
 
-> Sơ đồ use case hệ thống đặt phòng khách sạn.
+> Sơ đồ use case hệ thống **Đặt Phòng Khách Sạn**.
 
-<a href="<usecasediagramLECTURE5-6-requirements(bài5).png>">
-  <img src="<usecasediagramLECTURE5-6-requirements(bài5).png>" alt="Use Case – Hệ thống Đặt Phòng" width="100%">
+<a href="usecasedatphongkhachsan_lecture5_6.png">
+  <img src="usecasedatphongkhachsan_lecture5_6.png" alt="Use Case – Hệ thống Đặt Phòng Khách Sạn" width="100%">
 </a>
 
-- File ảnh gốc: `usecasediagramLECTURE5-6-requirements(bài5).png`
-- Bài giải lý thuyết: [`NGUYỄN ĐỖ TÚ MAI-N23DCPT091-LECTURE5&6-requirements analysis.pdf`](NGUYỄN%20ĐỖ%20TÚ%20MAI-N23DCPT091-LECTURE5%266-requirements%20analysis.pdf)
+- File ảnh gốc: `usecasedatphongkhachsan_lecture5_6.png`  
+- Bài giải của phần củng cố lý thuyết, bài 5: [NGUYỄN ĐỖ TÚ MAI-N23DCPT091-LECTURE5&6-requirements analysis.pdf](NGUYỄN%20ĐỖ%20TÚ%20MAI-N23DCPT091-LECTURE5%266-requirements%20analysis.pdf)
 
 Chạy run_all_N23DCPT091.sql.
 
